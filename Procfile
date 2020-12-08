@@ -1,1 +1,1 @@
-web: python cps.py --log-file -
+web: python cps.py
