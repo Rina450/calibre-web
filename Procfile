@@ -1,1 +1,1 @@
-worker: python cps.py
+web: python cps.py -i 0.0.0.0
