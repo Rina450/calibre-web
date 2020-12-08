@@ -1,1 +1,1 @@
-web: gunicorn cps:cps --log-file -
+web: gunicorn cps --log-file -
