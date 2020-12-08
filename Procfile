@@ -1,1 +1,1 @@
-web: gunicorn cps.py
+web: gunicorn app:cps --log-file -
