@@ -1,1 +1,1 @@
-web: python cps.py
+web: nohup python cps.py
