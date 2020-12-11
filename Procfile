@@ -1,1 +1,1 @@
-web: python cps.py -i 0.0.0.0:8083
+web: python cps.py -i 0.0.0.0
